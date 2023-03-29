@@ -1,0 +1,12 @@
+Cabin0  empty
+Cabin1  empty
+Cabin2  empty
+Cabin3  empty
+Cabin4  empty
+Cabin5  empty
+Cabin6  empty
+Cabin7  empty
+Cabin8 nethmini
+Cabin9  empty
+Cabin10  empty
+Cabin11  empty
